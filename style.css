@@ -1,3 +1,5 @@
+:root{
+    --background-color: rgb(45, 45, 45) ;
+}
 body{margin: 50px;
-    font-family: playfair ;
     font-size: 40px;}

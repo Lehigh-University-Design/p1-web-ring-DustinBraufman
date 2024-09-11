@@ -26,3 +26,20 @@ body{
    
 }
 
+.for-us-neva-them{
+    position:relative;
+    bottom:0;
+    right:200px;
+
+}
+
+.lastonesleft{
+    bottom: 0;
+    position: absolute;
+    margin-left: 200px;
+}
+
+.freedemboyz{
+    position: relative;
+    margin-left: 400px;
+}
